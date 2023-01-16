@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://github.com/bondarewicz/com/blob/master/favicon.png
   name: status.bondarewicz.com
-  introTitle: "status.bondarewicz.com"
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
