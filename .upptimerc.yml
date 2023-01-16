@@ -14,7 +14,7 @@ status-website:
   cname: status.bondarewicz.com
   # baseUrl: /status
   logoUrl: https://github.com/bondarewicz/com/blob/master/favicon.png
-  name: Upptime
+  name: status.bondarewicz.com
   introTitle: "status.bondarewicz.com"
   introMessage: 
   navbar:
