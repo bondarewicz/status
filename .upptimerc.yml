@@ -15,6 +15,7 @@ status-website:
   name: status.bondarewicz.com
   introTitle: ""
   introMessage: 
+  theme: light
   navbar:
     - title: status
       href: https://github.com/$OWNER/$REPO
