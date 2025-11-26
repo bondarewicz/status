@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 204,
-    "timeWeek": 167,
-    "timeMonth": 143,
-    "timeYear": 140,
+    "time": 148,
+    "timeDay": 246,
+    "timeWeek": 182,
+    "timeMonth": 149,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bondarewicz.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "42.18%",
+    "uptime": "42.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 138,
-    "timeDay": 136,
-    "timeWeek": 141,
+    "timeDay": 78,
+    "timeWeek": 128,
     "timeMonth": 155,
-    "timeYear": 146,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-11-25": 10,
+      "2025-11-26": 12,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -397,8 +398,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   }
 ]
