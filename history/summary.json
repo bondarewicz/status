@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 166,
-    "timeWeek": 162,
-    "timeMonth": 165,
+    "timeDay": 160,
+    "timeWeek": 159,
+    "timeMonth": 166,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bondarewicz.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "36.88%",
+    "uptime": "36.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 137,
-    "timeDay": 131,
-    "timeWeek": 132,
+    "timeDay": 119,
+    "timeWeek": 140,
     "timeMonth": 134,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2026-04-24": 28,
+      "2026-04-25": 24,
+      "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -397,8 +398,7 @@
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
-      "2025-04-26": 1440,
-      "2025-04-25": 1440
+      "2025-04-26": 1440
     }
   }
 ]
