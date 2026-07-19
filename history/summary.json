@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 162,
-    "timeWeek": 152,
-    "timeMonth": 160,
+    "timeDay": 138,
+    "timeWeek": 138,
+    "timeMonth": 159,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "api",
     "status": "down",
     "uptime": "38.61%",
-    "uptimeDay": "66.28%",
-    "uptimeWeek": "61.27%",
-    "uptimeMonth": "91.09%",
+    "uptimeDay": "62.07%",
+    "uptimeWeek": "58.96%",
+    "uptimeMonth": "90.56%",
     "uptimeYear": "14.76%",
-    "time": 463,
-    "timeDay": 700,
-    "timeWeek": 659,
-    "timeMonth": 730,
-    "timeYear": 618,
+    "time": 464,
+    "timeDay": 759,
+    "timeWeek": 657,
+    "timeMonth": 728,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2026-05-15": 942,
       "2026-05-14": 1440,
@@ -334,7 +334,6 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
       "2026-05-27": 707,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -352,7 +351,8 @@
       "2026-07-15": 905,
       "2026-07-16": 616,
       "2026-07-17": 638,
-      "2026-07-18": 436
+      "2026-07-18": 546,
+      "2026-07-19": 124
     }
   }
 ]
