@@ -24,12 +24,12 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "61.87%",
-    "uptimeWeek": "48.05%",
-    "uptimeMonth": "78.70%",
-    "uptimeYear": "98.22%",
+    "uptimeDay": "58.22%",
+    "uptimeWeek": "47.32%",
+    "uptimeMonth": "78.53%",
+    "uptimeYear": "98.21%",
     "time": 562,
-    "timeDay": 645,
+    "timeDay": 642,
     "timeWeek": 681,
     "timeMonth": 697,
     "timeYear": 676,
@@ -46,7 +46,8 @@
       "2026-08-13": 798,
       "2026-08-14": 673,
       "2026-08-15": 698,
-      "2026-08-16": 527
+      "2026-08-16": 549,
+      "2026-08-17": 52
     }
   }
 ]
