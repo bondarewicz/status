@@ -22,16 +22,16 @@
     "url": "https://api.bondarewicz.com/v1/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.bondarewicz.com.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "55.79%",
-    "uptimeWeek": "51.14%",
-    "uptimeMonth": "83.26%",
+    "uptimeDay": "55.45%",
+    "uptimeWeek": "50.65%",
+    "uptimeMonth": "83.14%",
     "uptimeYear": "98.60%",
-    "time": 584,
-    "timeDay": 776,
-    "timeWeek": 704,
-    "timeMonth": 706,
+    "time": 585,
+    "timeDay": 787,
+    "timeWeek": 705,
+    "timeMonth": 707,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2026-08-08": 548,
@@ -43,7 +43,8 @@
       "2026-08-14": 673,
       "2026-08-15": 698,
       "2026-08-16": 549,
-      "2026-08-17": 615
+      "2026-08-17": 642,
+      "2026-08-18": 23
     }
   }
 ]
