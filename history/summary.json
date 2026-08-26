@@ -13,7 +13,7 @@
     "time": 149,
     "timeDay": 175,
     "timeWeek": 113,
-    "timeMonth": 141,
+    "timeMonth": 144,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -24,23 +24,24 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "48.11%",
-    "uptimeWeek": "53.71%",
-    "uptimeMonth": "89.35%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "48.10%",
+    "uptimeWeek": "53.30%",
+    "uptimeMonth": "89.25%",
+    "uptimeYear": "99.10%",
     "time": 637,
     "timeDay": 625,
     "timeWeek": 734,
     "timeMonth": 723,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2026-08-19": 526,
+      "2026-08-19": 499,
       "2026-08-20": 640,
       "2026-08-21": 785,
       "2026-08-22": 635,
       "2026-08-23": 630,
       "2026-08-24": 721,
-      "2026-08-25": 733
+      "2026-08-25": 748,
+      "2026-08-26": 54
     }
   }
 ]
