@@ -1,7 +1,7 @@
 url: https://api.bondarewicz.com/v1/version
-status: down
-code: 502
-responseTime: 327
-lastUpdated: 2026-09-02T20:08:15.226Z
+status: up
+code: 200
+responseTime: 702
+lastUpdated: 2026-09-02T22:34:46.834Z
 startTime: 2023-01-16T15:37:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
