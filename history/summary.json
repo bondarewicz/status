@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bondarewicz.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.44%",
+    "uptime": "99.43%",
     "uptimeDay": "39.18%",
-    "uptimeWeek": "49.06%",
-    "uptimeMonth": "75.37%",
-    "uptimeYear": "97.95%",
+    "uptimeWeek": "48.46%",
+    "uptimeMonth": "75.24%",
+    "uptimeYear": "97.94%",
     "time": 612,
     "timeDay": 673,
     "timeWeek": 600,
@@ -49,7 +49,7 @@
       "2026-09-01": 224,
       "2026-09-02": 896,
       "2026-09-03": 905,
-      "2026-09-04": 0
+      "2026-09-04": 60
     }
   }
 ]
